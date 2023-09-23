@@ -1,2 +1,2 @@
 # Telecom_churn_prediction
-This is the second project.
+Telecom churn prediction is a crucial task in the telecommunications industry. Churn refers to customers leaving one service provider for another or discontinuing the service altogether. Predicting churn is essential for telecom companies to reduce customer attrition and improve customer retention. Machine learning models can be highly effective in predicting churn in the telecom sector. 
